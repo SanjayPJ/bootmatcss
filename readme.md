@@ -1,7 +1,7 @@
 <h2>BootMatCSS</h2>
 <hr>
-```html
-<pre>
+{::nomarkdown}
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -18,5 +18,5 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
     </body>
   </html>
-<pre>
-```
+
+{:/}
